@@ -213,14 +213,6 @@ The dashboard provides:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Security Results
-- Compliance Summary
-- Generated Reports
 
 ---
 
